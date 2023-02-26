@@ -60,6 +60,28 @@ audio:"https://docs.google.com/uc?export=download&id=1OMEye02pOXgOwzljk7rwupT0Op
             audio:"https://docs.google.com/uc?export=download&id=1DnHlibgPUvLCfvnHyk-8wYWEzb1AZ7Md",
             
             },
+            {
+
+                name: "My Ordinary Life",
+                artist :"The Living Tombstone",
+                cover:"https://i.ibb.co/TYRRCxp/ab67616d0000b27339be979ae33894ef46f263f9.jpg",
+                id:uuidv4(),
+                active:false ,
+                color:['#5F41B1','#423D15'],
+                audio:"https://docs.google.com/uc?export=download&id=1b-dfNPda8lCQeG4sUvyW6uNmfGfj84Gv",
+                
+                },
+                {
+
+                    name: "Yuve Yuve Yu",
+                    artist :"The HU",
+                    cover:"http://access.imglarger.com:8889/results/NztUGIyW_2x.jpg",
+                    id:uuidv4(),
+                    active:false ,
+                    color:['#666664','#191919'],
+                    audio:"https://docs.google.com/uc?export=download&id=1b6Euz4ApINOkWCtlNeag8tjgSSpalS5p",
+                    
+                    },
 
     ];
 }

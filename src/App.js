@@ -24,7 +24,7 @@ function App() {
     animationPercentage:0,
 })
   const [songs,setSongs]=useState(data());
-  const [currentSong,setCurrentSong]=useState(songs[4]);  
+  const [currentSong,setCurrentSong]=useState(songs[0]);  
   const [isPlaying,setIsPlaying]=useState(false);
 const [libraryStatus,setLibraryStatus]=useState(false)
 
