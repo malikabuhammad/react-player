@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/malikabuhammad.github.io/react-player/static/css/main.b17ff1b0.css",
-    "main.js": "/malikabuhammad.github.io/react-player/static/js/main.6989c3b5.js",
-    "static/js/787.0ec5325e.chunk.js": "/malikabuhammad.github.io/react-player/static/js/787.0ec5325e.chunk.js",
-    "index.html": "/malikabuhammad.github.io/react-player/index.html",
-    "main.b17ff1b0.css.map": "/malikabuhammad.github.io/react-player/static/css/main.b17ff1b0.css.map",
-    "main.6989c3b5.js.map": "/malikabuhammad.github.io/react-player/static/js/main.6989c3b5.js.map",
-    "787.0ec5325e.chunk.js.map": "/malikabuhammad.github.io/react-player/static/js/787.0ec5325e.chunk.js.map"
+    "main.css": "/react-player/static/css/main.b17ff1b0.css",
+    "main.js": "/react-player/static/js/main.c8d54932.js",
+    "static/js/787.0ec5325e.chunk.js": "/react-player/static/js/787.0ec5325e.chunk.js",
+    "index.html": "/react-player/index.html",
+    "main.b17ff1b0.css.map": "/react-player/static/css/main.b17ff1b0.css.map",
+    "main.c8d54932.js.map": "/react-player/static/js/main.c8d54932.js.map",
+    "787.0ec5325e.chunk.js.map": "/react-player/static/js/787.0ec5325e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b17ff1b0.css",
-    "static/js/main.6989c3b5.js"
+    "static/js/main.c8d54932.js"
   ]
 }
